@@ -41,3 +41,18 @@
 .bt-function:hover{
     background-color: rgba(223, 102, 3, 0.836);
 }
+.wide-bt{
+   width: 128px;
+}
+.high-bt{
+    height: 168px;
+}
+#result{
+    background-color: #FFF;
+    height: 30px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin: 10px 5px 15px 5px;
+    padding: 5px;
+}
