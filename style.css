@@ -2,13 +2,19 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< Updated upstream
 .background{
     background-image: linear-gradient(0deg,rgb(14, 12, 12), khaki);
+=======
+.container {
+    width: 100%;
+>>>>>>> Stashed changes
     height: 100vh;
     color: #FFF;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
+<<<<<<< Updated upstream
 .calculator-background{
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
@@ -20,6 +26,17 @@
 }
 .button{
     width: 60px;
+=======
+.calculator {
+    background: #20201f;
+    padding: 20px;
+    border-radius: 10px;
+}
+.calculator form input {
+    border: 0;
+    outline: 0;
+    width: 50px;
+>>>>>>> Stashed changes
     height: 80px;
     font-size: 30px;
     font-weight: 550;
